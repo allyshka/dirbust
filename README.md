@@ -9,3 +9,6 @@ Created from [danielmiessler](https://github.com/danielmiessler)'s *Top10000-Rob
 
 - ### **extensions.txt**
 Contains some file exstensions which cant help you to find backup of selected file. Just change %name% with filename and/or %ext% to extension.
+
+- ### **azzz.txt**
+Contains [a-zzz] range of file names witch %EXT% as extension. Very often it's helps to find something.
